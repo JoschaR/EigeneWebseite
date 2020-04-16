@@ -1,0 +1,36 @@
+.btn-danger{
+    margin-left: 80px;
+    background-color: red;
+    border-color: red;
+    color:black;
+}
+
+.btn-info{
+    margin-left: 0px;
+    background-color: red;
+    border-color: red;
+    color:black;
+    margin-top: 5px;
+}
+.btn-info2{
+    margin-left:80px;
+}
+.btn-primary{
+    background-color: green;
+    border-color: green;
+    margin-left: 75px;
+    color:black;
+}
+.btn-info:hover{
+    background-color: darkred;
+    color: white;
+    border-color: darkred;
+}
+.btn-primary:hover{
+    background-color: darkgreen;
+    color: white;
+    border-color: darkgreen;
+}
+
+
+
